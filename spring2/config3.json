@@ -1,6 +1,4 @@
-{
-  "CONFIG": {
-    "A_KEY": "A_VALUE",
+{"CONFIG": {
+    "A_KEY": "new_value",
     "B_KEY": "B_VALUE"
-  }
-}
+}}
