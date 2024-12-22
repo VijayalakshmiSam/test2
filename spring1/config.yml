@@ -1,3 +1,4 @@
 CONFIG:
-  A_KEY: "A_VALUE"
-  B_KEY: "B_VALUE"
+  A_KEY: A_VALUE
+  B_KEY: B_VALUE
+a_key: new_value
