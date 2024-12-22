@@ -1,5 +1,5 @@
 CONFIG:
-  A_KEY: new_value
+  A_KEY: new_valueagain
   B_KEY: B_VALUE
 a_key: new_value
-A_KEY: new_value
+A_KEY: new_valueagain
