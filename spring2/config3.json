@@ -1,7 +1,1 @@
-{
-  "CONFIG":
-    {
-      "A_KEY":"update_value",
-      "B_KEY":"B_VALUE"
-    }
-}
+{"CONFIG":{"A_KEY":"updatevalueagain","B_KEY":"B_VALUE"}}
